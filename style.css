@@ -24,3 +24,7 @@
     border: none;
     text-align: center;
   }
+  
+  input:focus {
+    outline: none;
+  }
