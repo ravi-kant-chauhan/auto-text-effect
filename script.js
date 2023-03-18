@@ -5,3 +5,6 @@ let idx = 1
 let speed = 300 / speedEl.value
 
 writeText()
+
+
+speedEl.addEventListener('input', (e) => speed = 300 / e.target.value)
