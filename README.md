@@ -1,3 +1,3 @@
 # auto-text-effect
 
-A simple project on html css and javascript
+A simple project on Html, Css and Javascript
